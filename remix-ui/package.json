@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "remix-ui@=1.6.0",
+        "scope": null,
+        "escapedName": "remix-ui",
+        "name": "remix-ui",
+        "rawSpec": "=1.6.0",
+        "spec": "1.6.0",
+        "type": "version"
+      },
+      "/Users/aditya/Desktop/MOS 2.0/Source code/node_modules/remix-platform-mobile"
+    ]
+  ],
+  "_from": "remix-ui@1.6.0",
+  "_id": "remix-ui@1.6.0",
+  "_inCache": true,
+  "_location": "/remix-ui",
+  "_nodeVersion": "6.11.3",
+  "_npmUser": {},
+  "_npmVersion": "4.4.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "remix-ui@=1.6.0",
+    "scope": null,
+    "escapedName": "remix-ui",
+    "name": "remix-ui",
+    "rawSpec": "=1.6.0",
+    "spec": "1.6.0",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/remix-platform-mobile"
+  ],
+  "_resolved": "http://172.26.60.108:4873/remix-ui/-/remix-ui-1.6.0.tgz",
+  "_shasum": "9f64ad699c8e31dfeb291e364793bd0a05748189",
+  "_shrinkwrap": null,
+  "_spec": "remix-ui@=1.6.0",
+  "_where": "/Users/aditya/Desktop/MOS 2.0/Source code/node_modules/remix-platform-mobile",
+  "author": {
+    "name": "MetLife"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "date-fns": "^1.28.5",
+    "es6-symbol": "^3.1.1",
+    "eventemitter3": "^2.0.2",
+    "history": "^4.6.1",
+    "lock": "^0.1.3",
+    "lodash": "^4.17.1",
+    "remix-binding": "=1.6.0",
+    "remix-common": "=1.6.0",
+    "remix-dsl": "=1.6.0",
+    "remix-entities": "=1.6.0",
+    "remix-meta-parser-ui": "=1.6.0",
+    "remix-rules": "=1.6.0"
+  },
+  "description": "Remix UI package",
+  "devDependencies": {},
+  "dist": {
+    "shasum": "9f64ad699c8e31dfeb291e364793bd0a05748189",
+    "tarball": "http://172.26.60.108:4873/remix-ui/-/remix-ui-1.6.0.tgz"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "main": "./lib/index.js",
+  "name": "remix-ui",
+  "optionalDependencies": {},
+  "publishConfig": {
+    "registry": "http://172.26.60.108:4873/"
+  },
+  "readme": "ERROR: No README data found!",
+  "readmeFilename": "README.md",
+  "version": "1.6.0"
+}
